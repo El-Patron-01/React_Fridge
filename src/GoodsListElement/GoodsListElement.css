@@ -1,0 +1,30 @@
+.GoodsListElement {
+    border-bottom: 0.5px solid black;
+    margin: 0 10px 0 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.GoodsListElementChecked {
+    border-bottom: 0.5px solid black;
+    margin: 0 10px 0 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: grey;
+}
+
+.GoodsListElement_Column {
+    text-align: left;
+    width: 8%;
+}
+
+.GoodsListElement_Column_Description {
+    width: 20%;
+}
+
+.button {
+    width: 7%;
+    margin: 0;
+}

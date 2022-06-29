@@ -1,0 +1,19 @@
+.GoodsListForm {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 60%;
+    margin: 10px;
+}
+
+.GoodsListFormInput {
+    margin: 1px;
+    width: 50%;
+}
+
+.GoodsListFormButton {
+    display: flex;
+    margin-top: 2px;
+    width: 30%;
+    justify-content: center;
+}
